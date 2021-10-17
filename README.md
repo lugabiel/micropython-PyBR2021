@@ -18,7 +18,7 @@ Micropython é um subconjunto da linguagem Python 3 projetada para rodar em ambi
  * como rodar micropython no seu navegador ou no seu microcontrolador,
  * quais os casos de exemplo que existem (parte 1)
 
-## ☀️(manhã das 10 as 13h)☀️
+## ☀️(tarde das 15 as 18h)☀️
  Nessa segunda parte sobre os principais conceitos sobre:
  
  * quais os casos de exemplo que existem (parte 1),
