@@ -10,5 +10,6 @@
     "python.linting.pylintEnabled": true,
     "python.analysis.extraPaths": [
         "./oled-display/.micropy/BradenM-micropy-stubs-70f5531/stubs"
-    ]
+    ],
+    "python.languageServer": "Microsoft"
 }
